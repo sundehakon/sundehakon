@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Håkon Sunde</h1>
 <h3 align="center">A developer from Norway</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundehakon" alt="sundehakon" /></a> </p>
-
 - 🔭 I’m currently working on [Hotell-React](https://github.com/sundehakon/Hotell-React)
 
 - 🌱 I’m currently learning **React, C# and .NET**

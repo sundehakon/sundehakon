@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Håkon Sunde</h1>
-<h3 align="center">A developer from Norway</h3>
+<h1>Hi 👋, I'm Håkon Sunde</h1>
+<h3>A developer from Norway</h3>
 
 - 🔭 I’m currently working on [Hotell-React](https://github.com/sundehakon/Hotell-React)
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, C# and .NET**
 
-- 📫 How to reach me **hakon.su@gmail.com**
+- 📫 How to reach me **hakon.su@gmail.com** or **hakonsun@viken.no**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

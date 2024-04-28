@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Håkon Sunde</h1>
 <h3>A developer from Norway</h3>
 
-- 🔭 I’m currently working on [Hotell-React](https://github.com/sundehakon/Hotell-React) and [Portfolio](https://github.com/sundehakon/Portfolio)
+- 🔭 I’m currently working on [Hotell-React](https://github.com/sundehakon/Hotell-React),[Portfolio](https://github.com/sundehakon/Portfolio) and [SundeAI](https://github.com/sundehakon/SundeAI)
 
 - 🌱 I’m currently learning **React, C# and .NET**
 

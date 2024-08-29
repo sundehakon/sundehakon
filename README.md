@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Håkon Sunde</h1>
 <h3>A developer from Norway</h3>
 
-- 🔭 I’m currently working on [Hotell-React](https://github.com/sundehakon/Hotell-React), [Portfolio](https://github.com/sundehakon/Portfolio) and [SundeAI](https://github.com/sundehakon/SundeAI)
+- 🔭 I’m currently working on [FinanSense](https://github.com/sundehakon/FinanSense)
 
-- 🌱 I’m currently learning **React, C# and .NET**
+- 🌱 I’m currently learning **React, Ruby, Rust, C# and .NET**
 
-- 📫 How to reach me **hakon.su@gmail.com** or **hakonsun@viken.no**
+- 📫 How to reach me **hakon.su@gmail.com** or **hakonsun@afk.no**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Håkon Sunde</h1>
 <h3>A developer from Norway</h3>
 
-- 🔭 I’m currently working on [FinanSense](https://github.com/sundehakon/FinanSense)
+- 🔭 I’m currently working on [SundeWeather 2.0](https://github.com/sundehakon/Rust-Weather) and [Portfolio] (https://github.com/sundehakon/Portfolio)
 
 - 🌱 I’m currently learning **React, Ruby, Rust, C# and .NET**
 

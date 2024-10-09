@@ -19,5 +19,5 @@ alt="Håkon Sunde" height="30" width="40" /></a>
 
 <h3 align="left">My personal website</h3>
 <a href="https://sundehakon.tech">sundehakon.tech</a>
-
+<br></br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sundehakon&show_icons=true&locale=en&layout=compact" alt="sundehakon" /></p>

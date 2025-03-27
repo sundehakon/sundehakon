@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Håkon Sunde</h1>
 <h3>A developer from Norway</h3>
 
-- 🔭 I’m currently working on [Blog-Editor](https://github.com/sundehakon/Blog-Editor), [Portfolio](https://github.com/sundehakon/Portfolio) and [PortfolioAPI](https://github.com/sundehakon/PortfolioAPI)
+- 🔭 I’m currently working on [Portfolio](https://github.com/sundehakon/Portfolio)
 
-- 🌱 I’m currently learning **React, Ruby, Rust and C#**
+- 🌱 I’m currently learning **React, Rust and C#**
 
 - 📫 How to reach me **hakon.su@gmail.com** or **hakonsun@afk.no**
 
